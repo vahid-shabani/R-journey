@@ -1,2 +1,2 @@
 # R-journey
-Hands-on learning of R for data analysis, manipulation, and visualization.
+Practice and notes from my R learning journey — data structure, wrangling, plots, and small projects.
